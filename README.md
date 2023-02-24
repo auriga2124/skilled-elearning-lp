@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
-- Live Site URL: [Live site at Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/skilled-elearning-landing-page-using-grid-Y9B1oxvZb0)
+- Live Site URL: [Live site at Netlify](https://aurigas-skilled-elearning.netlify.app/)
 
 ## My process
 
